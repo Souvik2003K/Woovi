@@ -18,3 +18,5 @@ npm install
 ```
 npm start
 ```
+
+Now your project is running locally at localhost:3000 🚀
